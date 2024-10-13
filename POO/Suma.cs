@@ -10,7 +10,7 @@ namespace POO
     
         public class suma
         {
-            public double Supra(double x, double y)
+            public static double Supra(double x, double y)
             {
                 return x + y;
             }
